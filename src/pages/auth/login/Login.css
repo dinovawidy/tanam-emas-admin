@@ -1,0 +1,36 @@
+.switchSmall2 {
+  display: inline-block;
+}
+.switchSmall2 input {
+  display: none;
+}
+.switchSmall2 small {
+  display: inline-block;
+  width: 23px;
+  height: 15px;
+  background: #cad4d1;
+  border-radius: 30px;
+  position: relative;
+  cursor: pointer;
+}
+.switchSmall2 small:before {
+  content: "";
+  position: absolute;
+  width: 10px;
+  height: 10px;
+  background: #fff;
+  border-radius: 50%;
+  top: 2px;
+  left: 1px;
+  transition: 0.3s;
+  box-shadow: -3px 0 3px rgba(0, 0, 0, 0.25);
+}
+.switchSmall2 input:checked ~ small {
+  background: #5d7d73;
+  transition: 0.3s;
+}
+.switchSmall2 input:checked ~ small:before {
+  transform: translate(12px, 0px);
+  transition: 0.3s;
+  box-shadow: 3px 0 3px rgba(0, 0, 0, 0.25);
+}

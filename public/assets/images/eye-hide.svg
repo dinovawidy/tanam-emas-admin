@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <g id="Eye_Hide" data-name="Eye Hide" transform="translate(7.013 10.004)">
+    <path id="Path_2434" data-name="Path 2434" d="M1647.907,516.009a4.537,4.537,0,1,1,6.416-6.417" transform="translate(-1642.106 -506.787)" fill="none" stroke="#5d7d73" stroke-linecap="round" stroke-width="1.3"/>
+    <path id="Path_2435" data-name="Path 2435" d="M1655.621,511.946a4.59,4.59,0,0,1,.092.915,4.544,4.544,0,0,1-5.417,4.452" transform="translate(-1642.167 -506.848)" fill="none" stroke="#5d7d73" stroke-linecap="round" stroke-width="1.3"/>
+    <circle id="Ellipse_394" data-name="Ellipse 394" cx="1.784" cy="1.784" r="1.784" transform="translate(7.225 4.229)" fill="none" stroke="#5d7d73" stroke-linecap="round" stroke-width="1.3" opacity="0.5"/>
+    <path id="Path_2436" data-name="Path 2436" d="M1647.154,516.687a10.269,10.269,0,0,1-5.123-3.887s2.16-4.537,9.04-4.537a12.521,12.521,0,0,1,3.511.476" transform="translate(-1642.03 -506.787)" fill="none" stroke="#5d7d73" stroke-linecap="round" stroke-width="1.3"/>
+    <path id="Path_2437" data-name="Path 2437" d="M1656.993,509.728a8.461,8.461,0,0,1,3.193,3.1,10.5,10.5,0,0,1-8.979,4.537q-.435,0-.849-.028" transform="translate(-1642.167 -506.813)" fill="none" stroke="#5d7d73" stroke-linecap="round" stroke-width="1.3"/>
+    <line id="Line_569" data-name="Line 569" y1="12.024" x2="12.024" transform="translate(2.997)" fill="none" stroke="#5d7d73" stroke-linecap="round" stroke-width="1.3"/>
+    <rect id="Dummy" width="32" height="32" transform="translate(-7.013 -10.004)" fill="none"/>
+  </g>
+</svg>

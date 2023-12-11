@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="34" height="34" viewBox="0 0 34 34">
+  <g id="Edit_Icon" data-name="Edit Icon" transform="translate(8.615 7)">
+    <g id="Group_3939" data-name="Group 3939" transform="translate(5.836)">
+      <path id="Path_982" data-name="Path 982" d="M1010.77,540.131l-2.346.7a.29.29,0,0,1-.367-.185.3.3,0,0,1,0-.181l.7-2.346a.942.942,0,0,1,.239-.4l8.378-8.378a1.593,1.593,0,0,1,2.245-.076h0a1.591,1.591,0,0,1-.075,2.246l-8.378,8.378A.941.941,0,0,1,1010.77,540.131Z" transform="translate(-1008.044 -528.841)" fill="none" stroke="#5d7d73" stroke-linecap="round" stroke-width="1.5"/>
+      <line id="Line_425" data-name="Line 425" x2="2.172" y2="2.172" transform="translate(7.792 2.043)" fill="none" stroke="#5d7d73" stroke-linecap="round" stroke-width="1.5"/>
+    </g>
+    <path id="Path_983" data-name="Path 983" d="M1010.155,530.352h-4.692a4.386,4.386,0,0,0-4.385,4.385V542.7a4.388,4.388,0,0,0,4.386,4.388h7.961a4.386,4.386,0,0,0,4.386-4.386h0v-4.692" transform="translate(-1001.078 -529.086)" fill="none" stroke="#5d7d73" stroke-linecap="round" stroke-width="1.5" opacity="0.6" style="mix-blend-mode: normal;isolation: isolate"/>
+    <rect id="Rectangle_16351" data-name="Rectangle 16351" width="34" height="34" transform="translate(-8.615 -7)" fill="none"/>
+  </g>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24.701" height="24.703" viewBox="0 0 24.701 24.703">
+  <g id="QR_Code_Icon" data-name="QR Code Icon" transform="translate(-1049.356 -623.112)">
+    <g id="Inactive">
+      <g id="Frame" transform="translate(1050.006 623.762)" opacity="0.5">
+        <path id="Path_4947" data-name="Path 4947" d="M1052.358,629.64v-1.117a2.407,2.407,0,0,1,2.407-2.409h1.118" transform="translate(-1052.358 -626.114)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1.3"/>
+        <path id="Path_4948" data-name="Path 4948" d="M1069.795,626.114h1.118a2.408,2.408,0,0,1,2.407,2.409v1.117" transform="translate(-1049.919 -626.114)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1.3"/>
+        <path id="Path_4949" data-name="Path 4949" d="M1073.32,643.552v1.117a2.408,2.408,0,0,1-2.407,2.409h-1.118" transform="translate(-1049.919 -623.675)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1.3"/>
+        <path id="Path_4950" data-name="Path 4950" d="M1055.883,647.078h-1.118a2.407,2.407,0,0,1-2.407-2.409v-1.117" transform="translate(-1052.358 -623.675)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1.3"/>
+      </g>
+      <g id="Code" transform="translate(1054.215 627.971)">
+        <path id="Path_4951" data-name="Path 4951" d="M1055.3,635.086v-5.045a.983.983,0,0,1,.983-.983h4.061a.983.983,0,0,1,.984.983v5.045" transform="translate(-1055.302 -629.058)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1.3"/>
+        <rect id="Rectangle_4487" data-name="Rectangle 4487" width="6.028" height="6.028" rx="1.015" transform="translate(0 8.956)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1.3"/>
+        <rect id="Rectangle_4488" data-name="Rectangle 4488" width="4.484" height="4.484" rx="1.015" transform="translate(8.42 8.421)" fill="#fff" opacity="0.5"/>
+        <path id="Path_4952" data-name="Path 4952" d="M1070.081,637.81v5.045a.984.984,0,0,1-.983.983h-5.044" transform="translate(-1055.098 -628.854)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1.3"/>
+        <path id="Path_4953" data-name="Path 4953" d="M1070.081,635.086h-5.044a.984.984,0,0,1-.983-.984v-4.06a.983.983,0,0,1,.983-.983h5.044" transform="translate(-1055.098 -629.058)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1.3"/>
+      </g>
+    </g>
+  </g>
+</svg>

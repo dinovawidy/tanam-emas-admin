@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="23.184" height="51.164" viewBox="0 0 23.184 51.164">
+  <defs>
+    <linearGradient id="linear-gradient" x1="-0.019" y1="1.021" x2="1.781" y2="0.206" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#cfd1a7"/>
+      <stop offset="1" stop-color="#d6b085"/>
+    </linearGradient>
+  </defs>
+  <g id="TE_Logogram" data-name="TE Logogram" transform="translate(-296.833 -205.219)">
+    <path id="Path_2415" data-name="Path 2415" d="M951.874,282.147l-.051.133a33.507,33.507,0,0,0-1.74,18.6c.858-2.649,2.494-4.589,4.011-6.853a49.431,49.431,0,0,1,6.4-7.059c10.66-10.651,7.351-25.612.763-37.251,1.573,2.779-5.22,8.273-7,10.076-4.122,4.181-8.56,8.757-9.7,14.282-1.245,6.013,1.008,12,2.563,17.784,0,0,3.023-14.4,11.155-19.509C955.038,274.378,953.186,278.7,951.874,282.147Z" transform="translate(-647.359 -44.495)" fill="url(#linear-gradient)"/>
+  </g>
+</svg>
